@@ -16,6 +16,7 @@ For any suggestions, please log an issue or submit a pull request.
 
 ## Mining pools
 
+- http://doge.cryptoculture.net
 - http://dogepool.pw
 - http://doge.luckyminers.com
 - http://pool.testserverino.de
